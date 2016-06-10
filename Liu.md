@@ -4,10 +4,10 @@ Jing Liu
 ## **Program**
 Business (Strategic Management)
 
-## **Project title**
+## **Project Title**
 The Role of Verbs vs. Nouns in Strategic Decision Making and Implementation
 
-## **2 sentence abstract**
+## **2 Sentence Abstract**
 This project investigates whether the CEO's habit of using verbs versus nouns affects the firm's speed of strategic decision making and implementation.
 
 ## **What resources do I have now?**
