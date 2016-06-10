@@ -14,7 +14,7 @@ This project investigates whether the CEO's habit of using verbs versus nouns af
 GC Digital Fellows and Digital Initiatives
 
 ## **What have I learned this week that will help me?**
-Basic knowledge of **Python**, **text analysis**, **machine learning**, **Twitter API**, and **SQL**.  
+Basic knowledge of **Python**, **Text Analysis**, **Machine Learning**, **Twitter API**, **SQL**, and **Git**.  
   * Scrape texts from social media (e.g.Twitter and FaceBook) using **Twitter API**
   * Clean my data using **Python**
   * Explore the data in **NLTK**
