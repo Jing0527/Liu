@@ -1,7 +1,7 @@
-## **Name:**
+## **Name**
 Jing Liu
 
-## **Program:**
+## **Program**
 Business (Strategic Management)
 
 ## **Project title**
